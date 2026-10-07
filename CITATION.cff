@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use MIST, please cite the paper below."
+title: "MIST: Multi-Domain Synthetic Dataset for Rural Driving"
+type: dataset
+authors:
+  - family-names: Ryu
+    given-names: Jongwon
+  - family-names: Go
+    given-names: Jaehoon
+  - family-names: Pham
+    given-names: Trung X.
+  - family-names: Kim
+    given-names: Junyeong
+url: "https://huggingface.co/datasets/jongwonryu/MIST-autonomous-driving-dataset"
+repository-code: "https://github.com/jongwonryu/MIST"
+preferred-citation:
+  type: article
+  title: "MIST: Multi-Domain Synthetic Dataset for Rural Driving"
+  authors:
+    - family-names: Ryu
+      given-names: Jongwon
+    - family-names: Go
+      given-names: Jaehoon
+    - family-names: Pham
+      given-names: Trung X.
+    - family-names: Kim
+      given-names: Junyeong
+  journal: IEEE Access
+  volume: "14"
+  start: "132866"
+  end: "132877"
+  year: 2026
+  doi: "10.1109/ACCESS.2026.3725755"

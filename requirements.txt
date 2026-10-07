@@ -1,0 +1,4 @@
+# Avoid the partial-Parquet-stream shutdown issue in newer scanner releases.
+datasets==3.1.0
+huggingface-hub>=0.25,<1
+Pillow>=10,<13
